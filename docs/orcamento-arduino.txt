@@ -1,0 +1,42 @@
+MERCADO LIVRE
+
+Placa Arduino		- 47.99
+Protoboard + Jumpers	- 24.80
+
+total 		- 64.52
+total + frete 	- 139.31 - 64.52 de frete
+
+------------------------------------------
+
+ELEGROGATE
+
+Buzzer Ativo		- 2.90
+Buzzer Passivo		- 2.50
+Kit Chassi Robô Arduino - 54.90
+Led Amarelo  5		- 0.25
+Led Azul     5		- 0.40
+Led Verde    5		- 0.25
+Led Vermelho 5 		- 0.25
+Sensor Distância	- 11.90
+Resistor 10K 10		- 1.12
+Resistor 1K  10		- 1.20
+
+total 		- 80.35
+total + frete 	- 139.78 - 59.43 de frete
+
+------------------------------------------
+
+total tudo - 297.09
+
+------------------------------------------
+
+KITS ELETROGATE
+
+Kit Maker para Arduino - 279.90
+    https://www.eletrogate.com/kit-arduino-maker
+    não vem com robô seguidor de linha
+
+Kit Robótica para Arduino - 349.90
+    https://www.eletrogate.com/kit-arduino-robotica
+    vem com robô seduidor de linha e outro
+
