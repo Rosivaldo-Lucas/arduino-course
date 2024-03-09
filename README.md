@@ -7,6 +7,10 @@ O curso visa proporcionar uma experiência prática e divertida no mundo da elet
 
 ## Aula 1
 
-### Piscar LED com Arduino
+### Piscar LED com Arduino - Prática 1
 
 ![Esquematico do projeto - Piscar LED](/aulas/01-aula/piscar-led/piscar-led.png)
+
+### Piscar LEDs com Arduino - Prática 2
+
+![Esquematico do projeto - Piscar LEDs](/aulas/01-aula/piscar-leds/piscar-leds.png)
