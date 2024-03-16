@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/ttyS0",
-    "sketch": "aulas/01-aula/piscar-led/piscar-led.ino"
+    "sketch": "aulas/03-aula/genius-game/genius-game.ino"
 }
