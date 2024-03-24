@@ -32,7 +32,7 @@ O curso visa proporcionar uma experiência prática e divertida no mundo da elet
 
 ### Genius Game
 
-O 1 projeto prático curso foi o **Genius Game** que consiste na montagem de um protótipo de jogo eletrônico que desafiou os alunos a botarem em prática tudo que foi passado até agora no curso. O jogo desafia os jogadores a repetirem uma sequência aleatória de LEDs. Os alunos utilizaram componentes eletrônicos básicos, como LEDs, botões e o Arduino, para controlar o funcionamento do jogo. O objetivo é acender os LEDs em sequência e desafiar os jogadores a repetirem essa sequência corretamente. O projeto inclui montagem física do circuito, programação do Arduino, feedback visual e sonoro com um Buzzer, níveis de dificuldade progressivos e documentação do processo de desenvolvimento. Foi uma oportunidade para os alunos aplicarem conceitos de eletrônica e programação de forma prática e divertida, estimulando habilidades como resolução de problemas e criatividade.
+O 1 projeto prático do curso foi o **Genius Game** que consiste na montagem de um protótipo de jogo eletrônico que desafiou os alunos a botarem em prática tudo que foi passado até agora no curso. O jogo desafia os jogadores a repetirem uma sequência aleatória de LEDs. Os alunos utilizaram componentes eletrônicos básicos, como LEDs, botões e o Arduino, para controlar o funcionamento do jogo. O objetivo é acender os LEDs em sequência e desafiar os jogadores a repetirem essa sequência corretamente. O projeto inclui montagem física do circuito, programação do Arduino, feedback visual e sonoro com um Buzzer, níveis de dificuldade progressivos e documentação do processo de desenvolvimento. Foi uma oportunidade para os alunos aplicarem conceitos de eletrônica e programação de forma prática e divertida, estimulando habilidades como resolução de problemas e criatividade.
 
 ![Esquemático Genius Game](/aulas/03-aula/genius-game/genius-game.png)
 
@@ -41,3 +41,12 @@ O 1 projeto prático curso foi o **Genius Game** que consiste na montagem de um 
 Utilização do sensor IR para acionar um LED.
 
 ![Esquemático Genius Game](/aulas/03-aula/sensor-ir/sensor-ir.png)
+
+## Aula 4
+
+### Semáforo Inteligente
+
+O 2 projeto prático do cusro foi o **Semáforo Inteligente** que consiste na montagem de um protótipo de um semáforo composto
+por 5 leds, nos quais, temos dois leds para sinalizar o semáforo do pedestre e mais 3 leds para sinalizar o semáforo dos carros. O funcionamento é simples, quando o LED verde dos carros está ligado (ABERTO), o LED vermelho dos pedestres está ligado (FECHADO). Assim, para abrir o sinal para os pedestres é necessário assionar o sensor IR, assim ele irá identificar a presença de pedestres e irá fechar o sinal dos carros e abrir o sinal dos pedestres por 5 segundos até voltar a fechar o sinal.
+
+![Esquemático Semáforo Inteligente](/aulas/04-aula/semaforo-inteligente/semaforo-inteligente.png)
