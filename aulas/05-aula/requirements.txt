@@ -1,0 +1,2 @@
+flask==0.10.1 
+pyserial==3.0.1 

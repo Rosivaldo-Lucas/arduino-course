@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Arduino tutorial</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="static/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css">
+</head>
+<body>
+    
+<h1>Lista de equipamentos</h1>
+<form action="" method="post" accept-charset="utf-8">
+    <div class="form-group">
+        {% for channel, state in channels.items() %}
+        <button name="action" class='btn btn-{{state}}' value="{{channel}}" type="submit">{{channel}}</button>
+        {% endfor %}
+    </div>
+</form>
+
+<!-- Div para exibir o valor do sensor -->
+<div id="sensor-value">Aguardando dados do sensor...</div>
+
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="static/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
